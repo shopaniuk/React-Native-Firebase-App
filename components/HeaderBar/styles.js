@@ -2,7 +2,7 @@ import {StyleSheet, Dimensions} from 'react-native';
 
 export const styles = StyleSheet.create({
   headerBar: {
-    backgroundColor: '#0F5340',
+    backgroundColor: '#009051',
     height: 80,
     width: Dimensions.get('window').width,
     position: 'absolute',
